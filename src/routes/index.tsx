@@ -99,7 +99,7 @@ function App() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://maps.app.goo.gl/dijbcpsXPL3xi1ri6"
+            href="https://yandex.uz/maps/-/CHwLY25J"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
