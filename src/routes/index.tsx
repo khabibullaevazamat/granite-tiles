@@ -103,7 +103,7 @@ function App() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://yandex.com/maps/-/CHDxIZnX"
+            href="https://yandex.uz/maps/-/CHD~RA~4"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
