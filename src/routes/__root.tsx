@@ -4,7 +4,9 @@ import { TanStackRouterDevtools } from '@tanstack/react-router-devtools'
 export const Route = createRootRoute({
   component: () => (
     <>
-      <Outlet />
+      <div className="max-w-[600px] mx-auto p-4">
+        <Outlet />
+      </div>
       <TanStackRouterDevtools />
     </>
   ),
