@@ -7,7 +7,7 @@ export const Route = createFileRoute("/")({
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-[url('/bg.jpg')] bg-cover bg-center h-screen p-4">
       <div className="flex flex-col gap-4">
         <Button className="text-lg font-bold uppercase py-6" variant="outline" asChild>
           <Link to="/catalog">

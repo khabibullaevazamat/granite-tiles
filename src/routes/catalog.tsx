@@ -8,7 +8,7 @@ export const Route = createFileRoute("/catalog")({
 function RouteComponent() {
   return (
     <>
-      <div>
+      <div className="p-4">
         <div className="mb-4">
           <Button variant="outline" asChild>
             <Link className="" to="/">
