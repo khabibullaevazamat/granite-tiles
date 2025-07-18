@@ -11,7 +11,7 @@ function RouteComponent() {
       <div className="p-4">
         <div className="mb-4">
           <Button variant="outline" asChild>
-            <a className="" href="https://tilekafel.taplink.ws/">
+            <a href="https://tilekafel.taplink.ws/">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
